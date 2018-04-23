@@ -1,0 +1,1 @@
+Alan, bir yüzeyin uzayda kapladığı yer miktarını ölçen bir büyüklüktür. SI birim sisteminde temel alan birimi m²: metrekare'dir. 
